@@ -494,8 +494,7 @@ Show # magicdecoratorremover
 	Corrupted False
 	ItemLevel >= 65
 	Rarity Magic
-	Class == "Amulets" "Rings" "Belts" "Charms" "Body Armours" "Boots" "Gloves" "Helmets" "Bows" "Claws" "Daggers" "Wands" "One Hand Swords" "One Hand Axes" "One Hand Maces" "Sceptres" "Spears" "Flails" "Bows" "Staves" "Two Hand Swords" "Two Hand Axes" "Two Hand Maces" "Quarterstaves" "Crossbows" "Traps" "Quivers" "Shields" "Foci"
-	SetFontSize 32
+	Class == "Amulets" "Rings" "Belts" "Charms" "Body Armours" "Boots" "Gloves" "Helmets" "Bows" "Quarterstaves" "Quivers"	SetFontSize 32
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 20 20 0 240
 	Continue
@@ -505,8 +504,7 @@ Show # normaldecoratorremover
 	Corrupted False
 	ItemLevel >= 65
 	Rarity Normal
-	Class == "Amulets" "Rings" "Belts" "Charms" "Body Armours" "Boots" "Gloves" "Helmets" "Bows" "Claws" "Daggers" "Wands" "One Hand Swords" "One Hand Axes" "One Hand Maces" "Sceptres" "Spears" "Flails" "Bows" "Staves" "Two Hand Swords" "Two Hand Axes" "Two Hand Maces" "Quarterstaves" "Crossbows" "Traps" "Quivers" "Shields" "Foci"
-	SetFontSize 32
+	Class == "Amulets" "Rings" "Belts" "Charms" "Body Armours" "Boots" "Gloves" "Helmets" "Bows" "Quarterstaves" "Quivers"	SetFontSize 32
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 20 20 0 240
 	Continue
